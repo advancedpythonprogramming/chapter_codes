@@ -1,0 +1,4 @@
+pid: 1 - types of piece: Bishop
+pid: 2 - types of piece: Pawn
+pid: 3 - types of piece: King
+pid: 4 - types of piece: Queen

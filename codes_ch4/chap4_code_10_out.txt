@@ -1,0 +1,2 @@
+<class 'MyBody'>
+100

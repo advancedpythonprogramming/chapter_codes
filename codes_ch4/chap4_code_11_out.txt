@@ -1,0 +1,5 @@
+False
+True
+<function see_weight at 0x1078e02f0>
+<bound method MyBody.see_weight of <MyBody object at 0x1078ffc50>>
+100

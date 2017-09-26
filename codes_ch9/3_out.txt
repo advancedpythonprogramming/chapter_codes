@@ -1,0 +1,6 @@
+['Hi', 'everyone,', 'how', 'are', 'you?']
+Hi#everyone,#how#are#you?
+Hi**everyone,**how**are**you?
+Hi everyone, how are you?
+('Hi', ' ', 'everyone, how are you?')
+Hi everyone, how are you?

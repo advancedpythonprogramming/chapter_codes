@@ -1,0 +1,25 @@
+Entering to the first next
+Entering ...
+Leaving the first next
+total = 10.0
+While loop ...
+Entering to send(5)
+i = 5
+total = 15.0
+cont = 2
+While loop ...
+Entering to send(0)
+i = 0
+total = 15.0
+cont = 3
+While loop ...
+Entering to second send(0)
+i = 0
+total = 15.0
+cont = 4
+While loop ...
+Entering to send(20)
+i = 20
+total = 35.0
+cont = 5
+While loop ...

@@ -1,0 +1,15 @@
+Client 0 is arriving at 0
+Client 0 buys 40 items at 0
+Client 1 is arriving at 1.31169822720764
+Client 1 buys 40 items at 1.31169822720764
+Client 0 ends buy at 2.0225484244174843
+Client 2 is arriving at 3.488584166959559
+Client 2 buys 40 items at 3.488584166959559
+Client 1 ends buy at 4.708427639905427
+Order supplies at 4.779920465459634
+Client 3 is arriving at 7.4254244821798645
+Client 3 buys 40 items at 7.4254244821798645
+Truck arrives at 9.393859438030438
+Truck provided 980 items
+Client 2 ends buy at 10.91044346299999
+Client 3 ends buy at 11.779851235042514

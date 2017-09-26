@@ -1,0 +1,22 @@
+vehicle Chevrolet added at 1
+vehicle Subaru added at 2
+vehicle Suzuki added at 3
+vehicle Mazda added at 4
+.
+.
+.
+vehicle Mazda added at 42
+Mazda vehicle 2 is delivered to consummer at 42
+0 requesting a product at 43
+vehicle Chevrolet added at 43
+vehicle Suzuki added at 44
+1 requesting a product at 45
+vehicle Chevrolet added at 45
+vehicle Chevrolet added at 46
+2 requesting a product at 47
+vehicle Mazda added at 47
+Mazda vehicle 3 is delivered to consummer at 47
+vehicle Chevrolet added at 48
+vehicle Suzuki added at 49
+vehicle Suzuki added at 50
+3 requesting a product at 52

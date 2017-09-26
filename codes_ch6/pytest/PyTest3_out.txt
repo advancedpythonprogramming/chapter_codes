@@ -1,0 +1,36 @@
+============================= test session starts =====================
+platform win32 -- Python 3.5.2, pytest-2.9.2, py-1.4.31, pluggy-0.3.1
+rootdir: codes\pytest, inifile: 
+collected 3 items
+
+PyTest3.py EEE
+
+=================================== ERRORS ============================
+_________________________ ERROR at setup of test_mean _________________
+
+request = <SubRequest 'valid_stats' for <Function 'test_mean'>>
+
+    def pytest_funcarg__valid_stats(request):
+>       return StatisticsList([1, 2, 2, 3, 3, 4])
+E       NameError: name 'StatisticsList' is not defined
+
+PyTest3.py:3: NameError
+________________________ ERROR at setup of test_median ________________
+
+request = <SubRequest 'valid_stats' for <Function 'test_median'>>
+
+    def pytest_funcarg__valid_stats(request):
+>       return StatisticsList([1, 2, 2, 3, 3, 4])
+E       NameError: name 'StatisticsList' is not defined
+
+PyTest3.py:3: NameError
+_________________________ ERROR at setup of test_mode _________________
+
+request = <SubRequest 'valid_stats' for <Function 'test_mode'>>
+
+    def pytest_funcarg__valid_stats(request):
+>       return StatisticsList([1, 2, 2, 3, 3, 4])
+E       NameError: name 'StatisticsList' is not defined
+
+PyTest3.py:3: NameError
+=========================== 3 error in 0.05 seconds ===================

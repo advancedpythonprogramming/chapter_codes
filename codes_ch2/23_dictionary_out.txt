@@ -1,0 +1,14 @@
+{'bc': 'border-collie', 'lr': 'labrador retriever', 'pg': 'pug'}
+{('2353445340', 1): 'admin', ('23545344', 0): 'office'}
+border-collie
+John
+{'bc': 'border-collie', 'lr': 'labrador retriever', 'te': 'terrier',
+'pg': 'pug'}
+{'bc': 'border-collie', 'lr': 'labrador retriever', 'te': 'terrier',
+'pg': 'pug'}
+{'bc': 'border-collie', 'lr': 'labrador retriever', 'pg': 'pug-pug'}
+True
+False
+pug-pug
+2
+The dog does not exist

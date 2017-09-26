@@ -1,0 +1,6 @@
+client 1 is asking for a resource at time=0. Priority=0.
+client 1 obtains a resource at time=0
+client 2 is asking for a resource at time=1. Priority=0.
+client 3 is asking for a resource at time=2. Priority=-1.
+client 3 obtains a resource at time=3
+client 2 obtains a resource at time=6

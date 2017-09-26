@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "2.py", line 4, in <module>
+    a = raw_input('Enter a number: ')
+NameError: name 'raw_input' is not defined

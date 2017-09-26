@@ -1,0 +1,29 @@
+{'Mark Ronson', 'Opeth', 'Hozier', 'Ed Sheeran', 'Maroon 5', 'Taylor Swift', 
+  'Ellie Goulding'}
+{'Patterns In The Ivy', 'Take Me To Church', 'Sugar', 'Love Me Like You Do',
+ 'Style', 'Uptown Funk', 'Thinking Out Loud'}
+True
+Mark Ronson plays excellent music
+Opeth plays excellent music
+Hozier plays excellent music
+Ed Sheeran plays excellent music
+Maroon 5 plays excellent music
+Taylor Swift plays excellent music
+Ellie Goulding plays excellent music
+['Ed Sheeran', 'Ellie Goulding', 'Hozier', 'Mark Ronson', 'Maroon 5',
+'Opeth', 'Taylor Swift']
+All: {'Mark Ronson', 'Opeth', 'Hozier', 'Taylor Swift', 'Maroon 5',
+'Amy Wadge', 'Ellie Goulding'}
+both: {'Taylor Swift'}
+Only in A: {'Ellie Goulding', 'Mark Ronson', 'Hozier', 'Opeth'}
+Any but not both: {'Mark Ronson', 'Opeth', 'Hozier', 'Maroon 5',
+'Amy Wadge', 'Ellie Goulding'}
+my_artist is to bands:
+issuperset: False
+issubset: False
+difference: {'Mark Ronson', 'Taylor Swift', 'Hozier', 'Ellie Goulding'}
+--------------------
+bands is to my_artists:
+issuperset: False
+issubset: False
+difference: {"Guns N' Roses"}

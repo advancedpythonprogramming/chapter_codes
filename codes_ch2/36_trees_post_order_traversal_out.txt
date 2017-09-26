@@ -1,0 +1,8 @@
+node_id: 5, parent_id: 3 -> value: 1
+node_id: 3, parent_id: 1 -> value: 4
+node_id: 4, parent_id: 1 -> value: 4
+node_id: 1, parent_id: 0 -> value: 8
+node_id: 6, parent_id: 2 -> value: 18
+node_id: 2, parent_id: 0 -> value: 12
+node_id: 0, parent_id: None -> value: 10
+

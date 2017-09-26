@@ -1,0 +1,5 @@
+<class 'int'>
+<class 'str'>
+<class 'type'>
+<class 'MyClass'>
+<class 'type'>

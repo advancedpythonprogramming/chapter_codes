@@ -1,0 +1,3 @@
+/: <h1>Welcome to ur Web Service!</h1><p>HTML content</p>
+/resources: <h1>Resources index</h1>
+/resources/id: <p>Looking for resouce with id: 1</p>

@@ -1,0 +1,10 @@
+s = "Hi everyone, how are you?"
+s2 = s.split(' ')
+print(s2)
+s3 = '#'.join(s2)
+print(s3)
+print(s.replace(' ', '**'))
+print(s)
+s5 = s.partition(' ')
+print(s5)
+print(s)

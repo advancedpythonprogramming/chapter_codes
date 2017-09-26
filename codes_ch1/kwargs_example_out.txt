@@ -1,0 +1,3 @@
+arg1: 1
+arg2: two
+arg3: 3

@@ -1,0 +1,10 @@
+Grocery List:
+
+name: bread - price: 5
+name: milk - price: 10
+name: rice - price: 12
+
+Grocery List:
+
+name: bread - price: 5
+name: milk - price: 10

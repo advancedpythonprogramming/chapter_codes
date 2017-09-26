@@ -1,0 +1,2 @@
+Error: Invalid input type.
+Error: Negative values. Check the input parameters

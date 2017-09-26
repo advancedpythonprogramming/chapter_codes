@@ -1,0 +1,2 @@
+First case: 0.8
+Error: float division by zero

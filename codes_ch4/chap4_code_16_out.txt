@@ -1,0 +1,4 @@
+creating a new object...
+__call__ of  <class 'MyClass'>
+__call__ *args= (1, 2)
+MyClass object with a=1, b=2

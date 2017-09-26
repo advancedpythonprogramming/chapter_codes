@@ -1,0 +1,10 @@
+Is it subclass?: True
+-----------------------------------------------------------------------------
+TypeError Traceback (most recent call last)
+<ipython-input-19-b1003dd6fd92> in <module>()
+     17 
+     18 print('Is it subclass?: {}'.format(issubclass(SubClass, Base)))
+---> 19 print('Is it instance?: {}'.format(isinstance(SubClass(), Base)))
+
+TypeError: Can't instantiate abstract class SubClass with abstract methods ' \
+              'func_2

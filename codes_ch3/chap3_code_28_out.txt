@@ -1,0 +1,3 @@
+Simple sort: ['YY', 'ZZ', 'aa', 'bb']
+Lower sort:  ['aa', 'bb', 'YY', 'ZZ']
+Lambda sort: ['aa', 'bb', 'YY', 'ZZ']

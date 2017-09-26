@@ -1,0 +1,3 @@
+{'KP': 0, 'CP': 1, 'BS': 2}
+[0, 1, 2]
+[<class '__main__.System'>, <class 'object'>]

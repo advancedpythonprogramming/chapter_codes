@@ -1,0 +1,19 @@
+Being treated: pickup_truck with an average time of 5 minutes
+Being treated: car with an average time of 5 minutes
+Being treated: motorcycle with an average time of 36 minutes
+Being treated: motorcycle with an average time of 8 minutes
+Being treated: motorcycle with an average time of 1 minutes
+Being treated: car with an average time of 8 minutes
+Being treated: pickup_truck with an average time of 6 minutes
+Being treated: motorcycle with an average time of 9 minutes
+Being treated: motorcycle with an average time of 14 minutes
+Being treated: car with an average time of 2 minutes
+Being treated: car with an average time of 43 minutes
+Being treated: car with an average time of 9 minutes
+Being treated: pickup_truck with an average time of 33 minutes
+Being treated: car with an average time of 7 minutes
+Being treated: pickup_truck with an average time of 20 minutes
+Statistics:
+Average waiting time  13.73 min.
+Total workshop service time was 206.00 min
+Total vehicles serviced: 15

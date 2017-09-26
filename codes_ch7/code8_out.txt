@@ -1,0 +1,4 @@
+(daemon    ) Starting
+(non-daemon) Starting
+(non-daemon) Exiting
+(daemon    ) Exiting

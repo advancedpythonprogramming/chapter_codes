@@ -1,0 +1,2 @@
+ERROR: Can't instantiate abstract class Base with abstract methods value
+Implementation.value: concrete property

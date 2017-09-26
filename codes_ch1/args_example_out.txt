@@ -1,0 +1,5 @@
+first arg normal: Lorem
+the next arg is: ipsum
+the next arg is: ad
+the next arg is: his
+the next arg is: scripta

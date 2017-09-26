@@ -1,0 +1,3 @@
+Error!: Check the input parameters!
+Remember ALWAYS to close your files
+

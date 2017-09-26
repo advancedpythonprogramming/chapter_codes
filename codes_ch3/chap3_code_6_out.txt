@@ -1,0 +1,4 @@
+list : 6, 5, 4, 3, 2, 1, 
+MySequence : Item_8, Item_7, Item_6, Item_5, Item_4, Item_3, Item_2, Item_1,
+Item_0, 
+MyReversed : R, e, v, e, r, s, i, n, g, !, !, 

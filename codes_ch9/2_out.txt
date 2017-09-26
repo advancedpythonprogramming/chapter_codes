@@ -1,0 +1,30 @@
+True
+
+False
+
+True
+
+True
+True
+
+2
+
+6
+
+7
+
+Traceback (most recent call last):
+  File "2.py", line 29, in <module>
+    print(s.index('i', 5, 10))
+ValueError: substring not found
+
+['Hi', 'everyone,', 'how', 'are', 'you?']
+
+Hi#everyone,#how#are#you?
+
+Hi**everyone,**how**are**you?
+
+Hi everyone, how are you?
+
+('Hi', ' ', 'everyone, how are you?')
+Hi everyone, how are you?

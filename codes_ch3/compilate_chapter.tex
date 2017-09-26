@@ -1,0 +1,192 @@
+%%
+%
+% Created by: Christian Pieringer: 2015.07.20
+%
+%
+% modifications:
+% 2015.11.18: [CPB] update geometry with same left and right margins
+
+\documentclass[10pt,twoside,openright]{memoir}
+
+%\usepackage[letterpaper,lmargin=1.5in,rmargin=1in,tmargin=1.5in,bmargin=1in,footskip=0.6in]{geometry}
+\usepackage[letterpaper, vmargin=1.5in, hmargin=1in, footskip=0.6in]{geometry}
+
+% space between paragraphs
+\setlength{\parskip}{12pt}
+
+% no indentation in new paragraph
+\setlength{\parindent}{0pt}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{tgtermes}
+
+%\usepackage{mathpazo}
+\usepackage[protrusion=true,expansion=true]{microtype}
+%\usepackage{type1cm}
+%\usepackage{lettrine}
+
+%\usepackage{subfigure}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{times}
+
+\usepackage{textcomp}
+\usepackage[nothing]{algorithm}
+\usepackage{enumitem}
+
+\usepackage{color}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codeorange}{rgb}{1,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+%\input{spanishAlgorithmic}
+
+\usepackage{listings}
+\lstdefinestyle{st_python}{
+language=Python,
+xleftmargin=0.5cm,
+numbers=left,
+numberstyle=\tiny,%\color{codegray},
+basicstyle=\ttfamily\small,
+keywordstyle=\color{codeorange},
+stringstyle=\color{codegreen},
+showstringspaces=false,
+emph={class, pass, in, for, while, if, is, elif, else, not, and, or, from, import, as, True, False, None,
+def, exec, break},
+emphstyle=\color{codeorange}\bfseries,
+emph={[2]print, setattr, getattr},
+emphstyle=[2]\color{codepurple},
+emph={[3]self, cls},
+emphstyle=[3]\color{magenta},
+upquote=true,
+morecomment=[s]{"""}{"""},
+commentstyle=\color{codegray}\slshape,
+tabsize=4
+%backgroundcolor=\color{backcolour}
+}
+
+\lstdefinestyle{output}{
+language={},
+xleftmargin=0.5cm,
+basicstyle=\ttfamily\small\color{blue},
+tabsize=4,
+columns=fullflexible,
+keepspaces=true,
+deletekeywords={in, input, object, not},
+showspaces=false,
+showstringspaces=false
+}
+
+\lstnewenvironment{python}[1][]{
+\lstset{style=st_python}}{}
+
+
+
+
+%\checkandfixthelayout
+
+% See the ``Memoir customise'' template for some common customisations
+% Don't forget to read the Memoir manual: memman.pdf
+
+%\title{TITLE OF BOOK}
+%\author{NAME OF AUTHOR}
+%\date{} % Delete this line to display the current date
+
+%% BEGIN TITLE
+
+%% Title formatting
+\makeatletter
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \vfill
+  \begin{center}\leavevmode
+    \normalfont
+    {\large\raggedleft \@author\par}%
+    \hrulefill\par
+    {\huge\raggedright \@title\par}%
+    \vskip 1cm
+%    {\Large \@date\par}%
+  \end{center}%
+  \vfill
+  \null
+  \cleardoublepage
+  }
+\makeatother
+\author{KARIM PICHARA -- CHRISTIAN PIERINGER}
+\title{ADVANCED PYTHON}
+\date{}
+
+
+
+
+
+
+
+
+
+
+%%% BEGIN DOCUMENT
+
+\begin{document}
+
+\let\cleardoublepage\clearpage
+
+
+\maketitle
+
+
+
+
+
+
+\frontmatter
+
+\null\vfill
+
+\begin{flushleft}
+\textit{ADVANCED PYTHON}
+
+
+2015 \copyright  COPYRIGHT INFO
+
+
+ISBN--INFO
+
+ISBN--13:
+\bigskip
+
+ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
+
+\end{flushleft}
+\let\cleardoublepage\clearpage
+
+\mainmatter
+\sloppy
+
+\section *{Preliminar}
+Este libro contiene los contenidos revisados en la asignatura de Programación Avanzada, IIC--2233.
+
+\newpage
+\tableofcontents
+
+\newpage
+
+% Book Chapters Here
+\input{./chapter_02}
+
+
+% References
+
+
+\end{document}

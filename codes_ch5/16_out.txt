@@ -1,0 +1,2 @@
+Error: The money on your wallet is not enough to pay $1500
+There is an excess of expenses of $-500

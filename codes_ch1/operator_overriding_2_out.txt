@@ -1,0 +1,6 @@
+{'soda': 2, 'water': 6, 'milk': 7, 'beer': 12, 'muffin': 3}
+Product: soda | Quantity: 2
+Product: water | Quantity: 6
+Product: milk | Quantity: 7
+Product: beer | Quantity: 12
+Product: muffin | Quantity: 3

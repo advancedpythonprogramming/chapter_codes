@@ -1,0 +1,3 @@
+name: John Davis
+email: jp@g_mail.com
+address: Beacon Street, Massachussets

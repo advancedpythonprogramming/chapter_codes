@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "05_tuple_inmutable.py", line 2, in <module>
+    a[1] = 'new data'
+TypeError: 'tuple' object does not support item assignment

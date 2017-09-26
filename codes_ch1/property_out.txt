@@ -1,0 +1,4 @@
+kp1@othermail.com
+kp2@othermail.com
+This is not an email address.
+Erase this email attribute!!

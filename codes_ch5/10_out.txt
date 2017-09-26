@@ -1,0 +1,7 @@
+The center is (2, 3)
+Traceback (most recent call last):
+  File "11.py", line 20, in <module>
+    c2 = Circle([2, 3])
+  File "11.py", line 8, in __init__
+    raise Exception('Center has to be a tuple')
+Exception: Center has to be a tuple

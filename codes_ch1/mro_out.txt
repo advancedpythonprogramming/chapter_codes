@@ -1,0 +1,5 @@
+<class 'diamond_problem_solution.SubClassA'>
+<class 'diamond_problem_solution.LeftSubClass'>
+<class 'diamond_problem_solution.RightSubClass'>
+<class 'diamond_problem_solution.ClassB'>
+<class 'object'>

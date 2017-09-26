@@ -1,0 +1,4 @@
+PRODUCT  QUANTITY   PRICE   SUBTOTAL
+milk       120       $2.00    $ 240.00
+bread      800       $3.50    $2800.00
+rice       960       $1.75    $1680.00

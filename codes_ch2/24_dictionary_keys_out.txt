@@ -1,0 +1,2 @@
+{1: 'first key', (23, 5): 'fourth key', '2': 'second key',
+23.0: 'third key'}

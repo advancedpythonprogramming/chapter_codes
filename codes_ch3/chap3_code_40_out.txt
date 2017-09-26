@@ -1,0 +1,2 @@
+You are spending more than what you have, a debt has been generated in your account!!
+Current Balance = 0

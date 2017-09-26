@@ -1,0 +1,8 @@
+
+From: <a@example.com>
+To: <b@example.com>
+Subject: You have an email.
+
+The message is useless.
+
+Bye!

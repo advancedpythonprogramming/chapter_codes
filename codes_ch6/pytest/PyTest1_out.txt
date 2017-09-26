@@ -1,0 +1,18 @@
+============================= test session starts =======================
+platform win32 -- Python 3.5.2, pytest-2.9.2, py-1.4.31, pluggy-0.3.1
+rootdir: codes\pytest, inifile: 
+collected 2 items
+
+PyTest1.py .F
+
+================================== FAILURES =============================
+__________________________ TestNumbers.test_int_str _____________________
+
+self = <PyTest1.TestNumbers object at 0x000001661A37EBE0>
+
+    def test_int_str(self):
+>       assert 1 == "1"
+E       assert 1 == '1'
+
+PyTest1.py:7: AssertionError
+===================== 1 failed, 1 passed in 0.03 seconds ================

@@ -1,0 +1,9 @@
+Trying to generate an instance of the Base class
+---------------------------------------------------------------------
+TypeError Traceback (most recent call last)
+<ipython-input-20-e8aa694c9937> in <module>()
+      1 print('Trying to generate an instance of the Base class\n')
+----> 2 a = Base()
+
+TypeError: Can't instantiate abstract class Base with abstract methods
+              func_1, func_2

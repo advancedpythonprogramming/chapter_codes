@@ -1,0 +1,10 @@
+[PRODUCER] The queue has 1 elements.
+[CONSUMER] The queue now has 0 elements.
+[PRODUCER] The queue has 1 elements.
+[PRODUCER] The queue has 2 elements.
+[PRODUCER] The queue has 3 elements.
+[PRODUCER] The queue has 4 elements.
+[CONSUMER] The queue now has 3 elements.
+[CONSUMER] The queue now has 2 elements.
+[CONSUMER] The queue now has 1 elements.
+[CONSUMER] The queue now has 0 elements.

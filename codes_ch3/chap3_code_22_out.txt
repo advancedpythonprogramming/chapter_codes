@@ -1,0 +1,7 @@
+<generator object dec_count at 0x1080464c8>
+
+Counting down from 5
+5
+4
+3
+2

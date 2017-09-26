@@ -1,0 +1,6 @@
+parent: 1, value: 3 -> right
+parent: 4, value: 1 -> left
+parent: 5, value: 20 -> right
+parent: 4, value: 5 -> right
+parent: None, value: 4 -> root
+

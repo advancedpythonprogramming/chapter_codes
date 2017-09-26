@@ -1,0 +1,29 @@
+============================= test session starts ======================
+platform win32 -- Python 3.5.2, pytest-2.9.2, py-1.4.31, pluggy-0.3.1
+rootdir: \codes\pytest, inifile: 
+collected 5 items
+
+PyTest2.py Setting up module PyTest2
+Running test function
+.Setting up Class TestClass1
+Setting up method test_method_1
+Running Method 1-1
+.Tearing down  method test_method_1
+Setting up method test_method_2
+Running Method 2-1
+.Tearing down  method test_method_2
+Tearing down Class TestClass1
+
+Setting up Class TestClass2
+Setting up method test_method_1
+Running Method 1-2
+.Tearing down  method test_method_1
+Setting up method test_method_2
+Running Method 2-2
+.Tearing down  method test_method_2
+Tearing down Class TestClass2
+
+Tearing down module PyTest2
+
+
+========================== 5 passed in 0.02 seconds ====================

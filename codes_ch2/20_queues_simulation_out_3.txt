@@ -1,0 +1,6 @@
+Testing: car
+Testing: suv
+Testing: suv
+Testing: car
+Testing: motorcycle
+Tiempo promedio de espera  24.00 min y 5 vehiculos esperando.

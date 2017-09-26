@@ -1,0 +1,37 @@
+[SIMULATION] time = 5 min
+[QUEUE] pickup_truck arrives in: 5 min.
+[W_SHOP] pickup_truck enters with a expected service time 1 min.
+[SIMULATION] time = 6 min
+[W_SHOP] Departure: pickup_truck at 6 min.
+[SIMULATION] time = 9 min
+[QUEUE] pickup_truck arrives in: 9 min.
+[W_SHOP] pickup_truck enters with a expected service time 35 min.
+[SIMULATION] time = 18 min
+[QUEUE] car arrives in: 18 min.
+[SIMULATION] time = 27 min
+[QUEUE] motorcycle arrives in: 27 min.
+[SIMULATION] time = 31 min
+[QUEUE] pickup_truck arrives in: 31 min.
+[SIMULATION] time = 32 min
+[QUEUE] car arrives in: 32 min.
+[SIMULATION] time = 44 min
+[W_SHOP] Departure: pickup_truck at 44 min.
+[W_SHOP] car enters with a expected service time 1 min.
+[SIMULATION] time = 45 min
+[W_SHOP] Departure: car at 45 min.
+[W_SHOP] motorcycle enters with a expected service time 16 min.
+[SIMULATION] time = 61 min
+[QUEUE] car arrives in: 61 min.
+[SIMULATION] time = 61 min
+[W_SHOP] Departure: motorcycle at 61 min.
+[W_SHOP] pickup_truck enters with a expected service time 11 min.
+[SIMULATION] time = 64 min
+[QUEUE] car arrives in: 64 min.
+[SIMULATION] time = 66 min
+[QUEUE] motorcycle arrives in: 66 min.
+[SIMULATION] time = 72 min
+[QUEUE] car arrives in: 72 min.
+Statistics:
+Total service time 72 min.
+Total number of served vehicles: 4
+Average waiting time 18 min.

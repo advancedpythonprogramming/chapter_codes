@@ -1,0 +1,16 @@
+func_1() called...
+-----------------------------------------------------
+NotImplementedError Traceback (most recent call last)
+<ipython-input-17-0803174cce17> in <module>()
+     16 b2 = SubClass()
+     17 b2.func_1()
+---> 18 b2.func_2()
+
+<ipython-input-17-0803174cce17> in func_2(self)
+      4 
+      5     def func_2(self):
+----> 6         raise NotImplementedError()
+      7 
+      8 class SubClass(Base):
+
+NotImplementedError: 

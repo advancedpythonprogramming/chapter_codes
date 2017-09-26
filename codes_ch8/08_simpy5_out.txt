@@ -1,0 +1,12 @@
+A dish begins to be prepared t=0
+[WAITER] the preparation takes a long time, place in the oven as it is
+A dish is put in the oven t=5
+A dish begins to be prepared t=13
+A dish is put in the oven t=24
+A dish begins to be prepared t=30
+A dish is put in the oven t=37
+A dish begins to be prepared t=43
+A dish is put in the oven t=59
+A dish begins to be prepared t=64
+A dish is put in the oven t=72
+A dish begins to be prepared t=78

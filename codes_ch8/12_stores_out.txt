@@ -1,0 +1,7 @@
+0 requests products in 1
+1 requests products in 1
+puts products in 2
+0 receives 'production 0' in  2
+0 requests products in 3
+puts products in 4
+1 receives 'production 1' in  4

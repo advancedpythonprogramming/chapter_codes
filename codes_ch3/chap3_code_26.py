@@ -1,0 +1,6 @@
+m = mov_avg()
+print(next(m))
+print(m.send(10))
+print(m.send(5))
+print(m.send(0))
+print(m.send(0))

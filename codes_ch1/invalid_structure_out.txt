@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/codes/invalid_structure.py", 
+line 24, in <module>
+    class F(A, B):
+TypeError: Cannot create a consistent method resolution
+order (MRO) for bases X, Y

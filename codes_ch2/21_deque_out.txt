@@ -1,0 +1,6 @@
+deque(['r', 'a', 'd', 'a', 'r', 'e', 's'])
+7
+r s
+deque(['r', 'e', 's', 'r', 'a', 'd', 'a'])
+r a
+deque(['e', 's', 'r', 'a', 'd'])

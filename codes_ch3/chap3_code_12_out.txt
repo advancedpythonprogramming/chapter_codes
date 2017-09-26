@@ -1,0 +1,4 @@
+{'Clint Eastwood': Movie(title='American Sniper', director='Clint Eastwood', 
+genre='Action'), 'Olivier Megaton': Movie(title='Taken 3', 
+director='Olivier Megaton', genre='Action')}
+Movie(title='Taken 3', director='Olivier Megaton', genre='Action')

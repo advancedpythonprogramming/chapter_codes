@@ -1,0 +1,2 @@
+Error: float division by zero
+Check the input

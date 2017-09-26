@@ -1,0 +1,2 @@
+class MyBody(Body):
+    pass

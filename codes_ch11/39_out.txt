@@ -1,0 +1,12 @@
+Default serialization:
+
+{"name": "Bob", "marital_status": "Single", "age": 37, "idn": 1}
+
+Custom Serialization:
+
+{"age": 37, "name": "Bob", "marital_status": "Single", "Person_id": 1, 
+"dob": 1978}
+{"age": 33, "name": "Mark", "marital_status": "Married", "Person_id": 2, 
+"dob": 1982}
+{"age": 24, "name": "Peter", "marital_status": "Single", "Person_id": 3, 
+"dob": 1991}

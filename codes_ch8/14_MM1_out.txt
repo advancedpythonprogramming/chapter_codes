@@ -1,0 +1,10 @@
+In the queue there are already 2 vehicles
+Vehicle 0 arrives to machine in 0.00.
+Vehicle 1 arrives to machine in 0.00.
+Vehicle 0 enters to machine in 0.00.
+Vehicle 0 goes out from machine in 5.00.
+Vehicle 1 enters to machine in 5.00.
+Vehicle 2 arrives to machine in 7.00.
+Vehicle 1 goes out from machine in 9.00.
+Vehicle 2 enters to machine in 9.00.
+Vehicle 2 goes out from machine in 10.00.

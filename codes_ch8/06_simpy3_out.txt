@@ -1,0 +1,9 @@
+A dish begins to be prepared t=0
+A dish is put in the oven t=16
+A dish begins to be prepared t=25
+A dish is put in the oven t=36
+A dish begins to be prepared t=45
+A dish is put in the oven t=50
+A dish begins to be prepared t=55
+A dish is put in the oven t=64
+A dish begins to be prepared t=74

@@ -1,0 +1,4 @@
+<class 'int'>
+<class 'str'>
+<class 'function'>
+<class 'type'>

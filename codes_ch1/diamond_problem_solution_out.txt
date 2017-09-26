@@ -1,0 +1,8 @@
+Calling method in ClassB
+Calling method in RightSubClass
+Calling method in LeftSubClass
+Calling method in SubClassA
+SubClassA: 1
+LeftSubClass: 1
+RightSubClass: 1
+ClassB: 1

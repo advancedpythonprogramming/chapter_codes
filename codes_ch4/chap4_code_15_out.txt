@@ -1,0 +1,7 @@
+-----------------------------------
+Creating Class: MyClass 
+<class 'MyMetaClass'>
+()
+{'mandatory_attribute': 10, 'my_param': 4, '__qualname__': 'MyClass',
+'func': <function MyClass.func at 0x1078e0620>, '__module__': 'builtins'}
+10

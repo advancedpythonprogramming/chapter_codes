@@ -1,0 +1,9 @@
+programming
+a lot
+a string
+with multiple
+lines
+Multiple lines with
+     double quotation marks 
+Three Strings Together
+a string concatenated

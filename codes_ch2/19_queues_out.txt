@@ -1,0 +1,6 @@
+deque(['orange', 'apple', 'pear'])
+Remove the item: orange
+deque(['apple', 'pear'])
+The first item is pear
+The queue have 3 elements
+The queue is empty

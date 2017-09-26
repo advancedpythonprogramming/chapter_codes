@@ -1,0 +1,6 @@
+[DEBUG](Thread-2  ) Starting
+[DEBUG](Thread-3  ) Starting
+[DEBUG](Thread-1  ) Starting
+[DEBUG](Thread-2  ) Exiting
+[DEBUG](Thread-3  ) Exiting
+[DEBUG](Thread-1  ) Exiting

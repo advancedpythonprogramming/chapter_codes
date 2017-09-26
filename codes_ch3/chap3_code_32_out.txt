@@ -1,0 +1,8 @@
+reduce time: 0:00:00.000224
+31
+max(generator) time: 0:00:00.000158
+31
+We are about to have a problem.
+Second Warning!
+This is a bug
+Be careful

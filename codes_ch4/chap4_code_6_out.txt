@@ -1,0 +1,2 @@
+<MyClass object at 0x1078ff7b8>
+<MyClass2 object at 0x1078ff4e0>

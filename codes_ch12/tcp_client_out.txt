@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.python.org/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 27 Jan 2017 21:08:53 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-dfw1838-DFW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1485551333.542024,VS0,VE0
+Public-Key-Pins: max-age=600; includeSubDomains; pin-sha256=
+"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256=
+"5C8kvU039KouVrl52D0eZSGf4Onjo4Khs8tmyTlV3nU="; pin-sha256=
+"5C8kvU039KouVrl52D0eZSGf4Onjo4Khs8tmyTlV3nU="; pin-sha256=
+"lCppFqbkrlJ3EcVFAkeip0+44VaoJUymbnOaEUk7tEU="; pin-sha256=
+"TUDnr0MEoJ3of7+YliBMBVFB4/gJsv5zO7IxD9+YoWI="; pin-sha256=
+"x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=";
+Strict-Transport-Security: max-age=63072000; 
+includeSubDomains

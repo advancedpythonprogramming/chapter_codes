@@ -1,0 +1,7 @@
+0.75
+Traceback (most recent call last):
+  File "10.py", line 16, in <module>
+    print(Operations().divide(3, 0))
+  File "10.py", line 11, in divide
+    raise ZeroDivisionError('Denominator is 0')
+ZeroDivisionError: Denominator is 0

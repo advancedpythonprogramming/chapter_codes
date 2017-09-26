@@ -1,0 +1,7 @@
+bytearray(b'hello world')
+bytearray(b'lo w')
+bytearray(b'hell\x15\xa3world')
+bytearray(b'hell\x15\xa3worldprogram')
+104
+0b1101000
+01101000

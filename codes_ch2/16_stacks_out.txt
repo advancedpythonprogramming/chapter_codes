@@ -1,0 +1,5 @@
+[1, 10, 12]
+pop(): [1, 10]
+top(): 25
+The stack have 3 elements
+The stack is empty :(

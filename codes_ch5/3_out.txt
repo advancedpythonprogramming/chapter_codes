@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "4.py", line 5, in <module>
+    x = 5.0 / 0
+ZeroDivisionError: float division by zero

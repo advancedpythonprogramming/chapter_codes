@@ -1,0 +1,5 @@
+  File "0.py", line 4
+    print 'Hello World'
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+

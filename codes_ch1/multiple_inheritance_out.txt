@@ -1,0 +1,6 @@
+#output
+
+Research field: Meachine Learning
+Courses: Python Programming, Probabilistic Graphical Models, 
+		 Bayesian Inference
+Name: Steve Iams

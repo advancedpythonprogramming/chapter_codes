@@ -1,0 +1,6 @@
+go -> loading url: http://www.uc.cl
+go -> loading url: http://www.uc.cl/en/courses
+go -> loading url: http://www.uc.cl/es/doctorado
+Current URL: http://www.uc.cl/es/doctorado
+back-> loading url: http://www.uc.cl/en/courses
+Current URL: http://www.uc.cl/en/courses

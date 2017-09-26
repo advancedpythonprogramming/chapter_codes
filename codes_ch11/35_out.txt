@@ -1,0 +1,1 @@
+{'marital_status': 'married', 'age': 34, 'score': 90.5, 'name': 'Mark'}

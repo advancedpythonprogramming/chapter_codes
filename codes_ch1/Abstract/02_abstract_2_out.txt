@@ -1,0 +1,13 @@
+-----------------------------------------------------
+NotImplementedError Traceback (most recent call last)
+<ipython-input-18-ac76688e460c> in <module>()
+----> 1 b1.func_2()
+
+<ipython-input-17-0803174cce17> in func_2(self)
+      4 
+      5     def func_2(self):
+----> 6         raise NotImplementedError()
+      7 
+      8 class SubClass(Base):
+
+NotImplementedError: 

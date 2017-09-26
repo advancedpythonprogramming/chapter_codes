@@ -1,0 +1,4 @@
+JSON data: 
+{"marital_status": "Single", "name": "Bob", "idn": 1, "age": 35}
+Python data:
+{'marital_status': 'Single', 'name': 'Bob', 'age': 35, 'idn': 1}

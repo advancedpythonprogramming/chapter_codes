@@ -1,0 +1,11 @@
+xsFs
+======================================================================
+FAIL: test_ignore_if (__main__.IgnoreTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "src/ENG/chapter_06/codes/unittest/6_ignore_test.py", line 17, 
+  in test_ignore_if self.assertEqual(False, True)
+AssertionError: False != True
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s

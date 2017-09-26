@@ -1,0 +1,28 @@
+dict_keys(['Chile', 'Spain', 'Italy', 'Peru', 'Brazil'])
+dict_values(['Peso', 'Euro', 'Euro', 'Sol', 'Real'])
+dict_items([('Chile', 'Peso'), ('Spain', 'Euro'), ('Italy', 'Euro'), 
+            ('Peru', 'Sol'), ('Brazil', 'Real')])
+This dictionary has the following keys:
+Chile
+Spain
+Italy
+Peru
+Brazil
+This dictionary has the following keys:
+Chile
+Spain
+Italy
+Peru
+Brazil
+The values in the dictionary:
+Peso
+Euro
+Euro
+Sol
+Real
+The pairs key-value:
+the currency in Chile is Peso
+the currency in Spain is Euro
+the currency in Italy is Euro
+the currency in Peru is Sol
+the currency in Brazil is Real

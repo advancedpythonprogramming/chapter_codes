@@ -1,0 +1,196 @@
+%%
+%
+% Created by: Christian Pieringer: 2015.07.20
+%
+%
+% modifications:
+%
+
+\documentclass[10pt,twoside,openright]{memoir}
+
+%\usepackage[paperwidth=6.7in, paperheight=9in,bindingoffset=.4in]{geometry}
+\usepackage[letterpaper,lmargin=1.5in,rmargin=1in,tmargin=1.5in,bmargin=1in,footskip=0.6in]{geometry}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{tgtermes}
+
+%\usepackage{mathpazo}
+\usepackage[protrusion=true,expansion=true]{microtype}
+%\usepackage{type1cm}
+%\usepackage{lettrine}
+
+%\usepackage{subfigure}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{times}
+
+\usepackage{textcomp}
+\usepackage[nothing]{algorithm}
+\usepackage{enumitem}
+
+
+\usepackage{color}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codeorange}{rgb}{1,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+%\input{spanishAlgorithmic}
+
+\usepackage{listings}
+\lstdefinestyle{st_python}{
+language=Python,
+xleftmargin = 0.5cm,
+numbers=left,
+numberstyle=\tiny,%\color{codegray},
+basicstyle=\ttfamily\small,
+keywordstyle=\color{codeorange},
+stringstyle=\color{codegreen},
+showstringspaces=false,
+emph={class, pass, in, for, while, if, is, elif, else, not, and, or, from, import, as, True, False, None,
+def, exec, break},
+emphstyle=\color{codeorange}\bfseries,
+emph={[2]print, setattr, getattr},
+emphstyle=[2]\color{codepurple},
+emph={[3]self, cls},
+emphstyle=[3]\color{magenta},
+upquote=true,
+morecomment=[s]{"""}{"""},
+commentstyle=\color{codegray}\slshape,
+tabsize=4,
+%frame=single,
+%backgroundcolor=\color{backcolour}
+}
+
+\lstdefinestyle{output}{
+language=Python,
+xleftmargin=0.5cm,
+basicstyle=\ttfamily\small\color{blue},
+tabsize=4
+}
+
+
+\lstnewenvironment{python}[1][]{
+\lstset{style=st_python}}{}
+
+
+
+
+%\checkandfixthelayout
+
+% See the ``Memoir customise'' template for some common customisations
+% Don't forget to read the Memoir manual: memman.pdf
+
+%\title{TITLE OF BOOK}
+%\author{NAME OF AUTHOR}
+%\date{} % Delete this line to display the current date
+
+%% BEGIN TITLE
+
+%% Title formatting
+\makeatletter
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \vfill
+  \begin{center}\leavevmode
+    \normalfont
+    {\large\raggedleft \@author\par}%
+    \hrulefill\par
+    {\huge\raggedright \@title\par}%
+    \vskip 1cm
+%    {\Large \@date\par}%
+  \end{center}%
+  \vfill
+  \null
+  \cleardoublepage
+  }
+\makeatother
+\author{KARIM PICHARA -- CHRISTIAN PIERINGER}
+\title{ADVANCED PYTHON}
+\date{}
+
+
+
+
+
+
+
+
+
+
+%%% BEGIN DOCUMENT
+
+\begin{document}
+
+\let\cleardoublepage\clearpage
+
+
+\maketitle
+
+
+
+
+
+
+\frontmatter
+
+\null\vfill
+
+\begin{flushleft}
+\textit{ADVANCED PYTHON}
+
+
+2015 \copyright  COPYRIGHT INFO
+
+
+ISBN--INFO
+
+ISBN--13:
+\bigskip
+
+ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
+
+\end{flushleft}
+\let\cleardoublepage\clearpage
+
+\mainmatter
+\sloppy
+
+\section *{Preamble}
+Este libro contiene los contenidos revisados en la asignatura de Programación Avanzada, IIC--2233.
+
+\newpage
+\tableofcontents
+
+
+% Book Chapters Here
+%\input{./chapter_00/introduction}
+\input{./chapter_01}
+%\input{./chapter_02/chapter_02_main}
+%\input{./chapter_03/chapter_03_main}
+%\input{./chapter_04/chapter_04_main}
+%\input{./chapter_05/chapter_05_main}
+%\input{./chapter_06/chapter_06_main}
+%\input{./chapter_07/chapter_07_main}
+%\input{./chapter_08/chapter_08_main}
+%\input{./chapter_09/chapter_09_main}
+%\input{./chapter_10/chapter_10_main}
+%\input{./chapter_11/chapter_11_main}
+%\input{./chapter_12/chapter_12_main}
+
+% References
+\bibliography{chapter_01}
+\bibliographystyle{plain}
+
+
+\end{document}

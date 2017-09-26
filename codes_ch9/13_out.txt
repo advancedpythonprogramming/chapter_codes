@@ -1,0 +1,6 @@
+﻿------------------------------------------------------------------------------
+SyntaxError Traceback (most recent call last)
+<ipython-input-19-826203d742e2> in <module>()
+---> 4 caracteres = b"áb"
+
+SyntaxError: bytes can only contain ASCII literal characters.

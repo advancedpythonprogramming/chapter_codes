@@ -1,0 +1,5 @@
+11
+32
+43
+<method-wrapper '__iter__' of list object at 0x10bef2e48>
+'list' object is not an iterator
